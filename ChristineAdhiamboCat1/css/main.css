@@ -1,0 +1,209 @@
+		body{
+	background-color:#bfbfbf;
+	width: 1200px;
+	margin: 0 auto;
+
+}
+.container{
+	background-color:#ffffff;
+	width:1100px;
+	margin: 0 auto;
+	height:800px;
+
+
+
+}
+#ball{
+	background-color: #ededed;
+	width: 1300px;
+	height: 860px;
+	
+
+}
+
+
+
+
+header{
+	width: 1300px;
+	height: 50px;
+	background-color: #af4f4f;
+	margin-bottom: : 10px;
+	color: #ffffff;
+
+	
+
+
+}
+
+.planet{
+	width: 500px;
+	height:278px;
+	float:left;
+	margin-left: 30px;
+	margin-top: 10px;
+	background-image: url(../img/nature.jpg);
+
+}
+
+
+.hotspot{
+	background-color: #ffffff;
+	width: 500px;
+	height:278px;
+	float: left;
+	margin-left:40px;
+	margin-top: 10px;
+
+ 	
+ }
+ p{
+ 	color: #242424
+ }
+
+   
+ a{
+ 	color: #a74b4e;
+ 	
+
+
+}
+
+#earth{
+	
+	width: 320px;
+	height: 210px;
+	float:left;
+	margin-left: 30px;
+	margin-top: 30px;
+	background-image: url(../img/city.jpg);
+
+}
+
+#mars{
+	
+	width: 320px;
+	height: 210px;
+	float:left;
+	margin-left: 30px;
+	margin-top: 30px;
+	background-image: url(../img/lake.jpg);
+
+
+}
+
+#jupiter{
+
+	width: 320px;
+	height: 210px;
+	float:left;
+	margin-left: 50px;
+	margin-top: 30px;
+	background-image: url(../img/mountain.jpg);
+
+
+}
+
+.pan{
+	background-color: #ffffff;
+	width: 320px;
+	height: 200px;
+	float:left; 
+	margin-left: 30px;
+	margin-top: 30px;
+}
+ .pot{
+ 	background-color:#ffffff; 
+ 	width: 320px;
+	height: 200px;
+	float:left;
+	margin-left: 30px;
+	margin-top: 30px;
+ }
+
+ .cup{
+ 	background-color: #ffffff;
+ 	width: 320px;
+	height: 200px;
+	float:left;
+	margin-left: 50px;
+    margin-top: 30px;
+ }
+ .monty{
+ 	float: left
+ }
+
+ #mt{
+ 	color: #a74b4e;
+ 	float: left;
+ 	
+ }
+
+ 
+ 	
+ li{
+ 	color: #242424;
+ }	
+ 
+ 
+ h1{
+ 	 color: #ae4e4f;
+ 	
+ }
+ h2{
+ 	color: #ad4f50;
+ 	margin-left: 25px;
+ }
+ h3{
+ 	margin-top: 10px;
+ 	color: #888888;
+ 	
+ }
+ 
+ 
+
+ .copy{
+ 	float: left;
+ 	margin-left: 100px;
+ 	margin-top: 20px;
+ 
+ 	
+ 
+
+ 	
+ 	
+ }
+ .Terms{
+ 	float: left;
+ 	margin-left: 100px;
+ 	margin-top: 20px;
+ 	float: right;
+ 	margin-right: 100px;
+ 	
+ 	
+
+ 
+
+ 	
+
+
+ }
+
+
+ footer{
+ 	color: #c1c1c1;
+ }
+ 	
+ 	
+
+ hr{
+ 	color: #ededed;
+ }
+
+	
+
+
+ 
+ 
+ 
+ 

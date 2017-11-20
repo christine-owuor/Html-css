@@ -1,0 +1,135 @@
+
+ header{
+ 	background-color:black;
+ 	height: 50px;
+ 	
+ }
+
+ header ul{
+ 	text-align: center;
+ 	margin: 0px;
+ 	padding: 0px;
+ 	
+
+
+ }
+ header ul li{
+ 	list-style: none;
+ 	display: inline;
+ 	margin: 0px;
+ 	padding: 0px;
+ 	 	
+ }
+ header ul li a{
+	    color: grey;
+	    text-decoration: none;
+	    display: inline-block;
+	    padding: 15px 20px;
+}
+
+ .span{
+ 	background-color: cyan;
+ 	
+
+
+ }
+ .pot{
+ 	background-color: purple;
+ 	
+	
+
+ }
+
+ .container{
+ 	width: 1600px;
+ 	height: 900px;
+    margin: 0 auto;
+   background-color: brown;
+   background-image: url(../img/puppies.jpg);
+    
+
+ }
+
+ .container2{
+ 	width: 1600px;
+ 	height: 900px;
+    margin: 0 auto;
+    background-color: grey;
+    
+    
+
+ }
+
+ .jungle1{
+ 	width: 750px;
+ 	height: 450px;
+ 	float: left;
+ 	background-color:  blue;
+ 	margin-top:  10px;
+ 	margin-left: 10px;
+  background-image: url(../img/flower.jpg);
+ 	
+
+ }
+  
+ .jungle2{
+ 	width: 750px;
+ 	height: 450px;
+ 	float: left;
+ 	background-color:  maroon;
+ 	margin-top:  10px;
+ 	margin-left: 80px;
+  background-image: url(../img/purple.jpg);
+ 	
+ 	
+ }
+ 
+
+ .jungle3{
+  background-color: yellow;
+  width: 500px;
+  height: 360px;
+  float: left;
+  margin-top: 20px;
+  margin-left: 10px;
+  background-image: url(../img/red-green.jpg);
+    
+  
+ }
+  
+
+ .jungle4{
+   background-color: purple;
+   width: 500px;
+  height: 360px;
+  float: left;
+  margin-top:20px;
+  margin-left: 40px;
+  background-image: url(../img/orange.jpg);
+    
+  
+ 
+
+ }
+ .junglea{
+    background-color: lime;
+    width: 500px;
+    height: 360px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 40px;
+    background-image: url(../img/red.jpg);
+    
+
+    
+    
+
+  }
+
+
+ 
+  
+  
+ 
+
+ 

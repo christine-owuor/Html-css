@@ -1,0 +1,17 @@
+body{background-color: yellow;
+     background-image: url(../img/forest.jpg);
+     background-attachment: fixed;
+}
+   
+   .container{
+    margin: 0 auto;
+    width: 700px;
+    background-color: grey;
+    padding: 20px;
+    height: auto;
+    
+   }
+
+   .container img{
+   	width: 100%
+   }

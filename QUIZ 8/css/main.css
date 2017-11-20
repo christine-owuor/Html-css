@@ -1,0 +1,148 @@
+body{
+	background-color: #000;
+}
+
+.container{
+	/*background-color: #ddd;*/
+	/*max-width: 1000px;*/
+	/*height: 1500px;*/
+	margin: 0 auto;
+	margin-bottom: 30px;
+	overflow: auto;
+
+}
+
+.pan{
+	background-color: #32cd32;
+	width: 500px;
+	margin: 2%;
+	min-height: 500px;
+	float: left;
+	border-radius: 250px;
+	background-image: url(../img/nature.jpg);
+
+
+}
+
+.pan2{
+	background-color: #800080;
+	width: 500px;
+	margin: 2%;
+	min-height: 500px;
+	float: left;
+	border-radius: 250px;
+	background-image:url(../img/forest.jpg);
+
+	
+}
+
+.pan3{
+	background-color: #4169e1;
+	width: 500px;
+	margin: 2%;
+	float: left;
+	min-height: 500px;
+	border-radius: 250px;
+	background-image: url(../img/ft.png);
+
+}
+
+.span{
+	background-color: #000;
+	width: 500px;
+	margin: 2%;
+	float: left;
+	min-height: 500px;
+	border-radius: 250px;
+	background-image: url(../img/kings.jpg);
+
+}
+
+.span2{
+	background-color: #ffff00;
+	width: 500px;
+	margin: 2%;
+	float: left;
+	min-height: 500px;
+	border-radius: 250px;
+	background-image: url(../img/waterfall.jpg);
+
+}
+
+.span3{
+	background-color:#ee82ee;
+	width: 500px;
+	margin: 2%;
+	min-height: 500px;
+	float: left;
+	border-radius: 250px;
+	background-image: url(../img/gate.jpg);
+
+}
+
+@media only screen and (max-width: 500px) {
+    body {
+        background-color: #800080;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 500px) {
+    .span{
+    height:  100%
+
+        
+    }
+  .span2{
+        width: 92%
+    }
+
+      .span3{
+      	width: 92%
+    }
+
+    .pan{
+     width: 92%
+
+    }
+
+       .pan2{
+    	   width: 92%
+    }
+       .pan3{
+    	   width: 92%
+    }
+
+}
+
+
+
+@media only screen and (max-width: 250px) {
+    .span{
+    	height:  50%
+
+        
+    }
+  .span2{
+        width: 92%
+    }
+
+      .span3{
+      	width: 92%
+    }
+
+    .pan{
+     width: 92%
+
+    }
+
+       .pan2{
+    	   width: 92%
+    }
+       .pan3{
+    	   width: 92%
+    }
+
+}

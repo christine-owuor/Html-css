@@ -1,0 +1,53 @@
+body{
+	background-color: grey;
+	
+
+}
+.container{
+	      width: 1000px;
+	      margin: 0 auto;
+	      background-color: cyan;
+	      min-height: 600px;
+	      padding: 30px;
+	      background:url(../img/trolltunga.jpg);
+}
+
+
+header{
+	  background-color: black;
+
+}
+
+header ul{
+	  margin: 0px;
+	  padding: 0px;
+	  text-align: center;
+}
+
+header ul li{
+	    list-style: none;
+	    margin: 0px;
+	    padding: 0px;
+	    display: inline;
+}
+
+
+header ul li a{
+	    color: grey;
+	    text-decoration: none;
+	    display: inline-block;
+	    padding: 15px 20px;
+}
+
+header ul li a:hover{
+        color: purple;
+}
+
+header ul li a.active {
+	    color: green;
+}
+
+
+
+
+	

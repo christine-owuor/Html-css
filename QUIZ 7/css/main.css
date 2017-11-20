@@ -1,0 +1,51 @@
+body{
+	background-color: #73c259;
+}
+
+form{
+	background-color: #fff;
+	width: 498px;
+	height: 394px;
+	margin: 0 auto;
+	margin-top: 20px;
+
+}
+input{
+	background-color: #f2f2f2;
+	border: none;
+	width: 363px;
+	height: 59px;
+	margin-top: 30px;
+	margin-left: 65px;																				
+	text-indent: 20px;
+	font-size: 18px;
+	color:#bfbfbf; 
+
+
+
+}
+
+.account{
+	text-align: center;
+	color: #bfbfbf;
+
+	
+}
+
+a{
+ color: #00b242;
+ text-decoration: none;
+}
+
+input[value=LOGIN]{
+	text-align: center;
+	background-color: #00b242;
+	color: #fff;
+}
+
+
+
+
+
+
+
